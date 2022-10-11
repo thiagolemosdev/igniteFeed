@@ -1,16 +1,16 @@
 # Ignite Feed
 
 <p align="center">
-  <img alt="Game" src=".github/desktop.png">
+  <img alt="Desktop" src=".github/desktop.png">
   <!-- <img alt="Calculadora" src=".github/mobile.png"> -->
 </p>
 
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=131313&labelColor=323A46" alt="License">
   
-  <img src="https://img.shields.io/github/forks/thiagolemosdev/react-nlw-esports?label=forks&message=MIT&color=131313&labelColor=323A46" alt="Forks">
+  <img src="https://img.shields.io/github/forks/thiagolemosdev/ingniteFeed?label=forks&message=MIT&color=131313&labelColor=323A46" alt="Forks">
 
-<img src="https://img.shields.io/github/stars/thiagolemosdev/react-nlw-esports?label=stars&message=MIT&color=131313&labelColor=323A46" alt="Stars">
+<img src="https://img.shields.io/github/stars/thiagolemosdev/ingniteFeed?label=stars&message=MIT&color=131313&labelColor=323A46" alt="Stars">
 
 </p>
 
@@ -22,17 +22,15 @@
 
 ## ✍ Short Description
 
-Web aplication developed withi react. This aplication consume from the one API where have they datas.
+Web Aplication developed in ignite Course. This aplication is like a social media where you can put comments in publisheds.
 
 ## 🧪 Technologies
 
 This project was developed using the following technologies:
 
 - REACT
-- COMPONENT
-- TAILWIND
+- COMPONENTS
 - USESTATE
-- RADIX
 
 ## 🚀 Getting started
 
@@ -40,7 +38,7 @@ Clone the project and access the folder.
 
 ```bash
 git clone https://github.com/REPOSITORY
-cd react-nlw-esports
+cd igniteFeed
 ```
 
 Run this command to install the dependencies.
@@ -54,7 +52,7 @@ npm run dev
 
 You can view the project through the links below:
 
-- [Live Preview](https://esports.thiagolemos.tech/)
+- [Live Preview](https://ignitefeed.thiagolemos.tech/)
 
 <!-- - [Figma](<https://www.figma.com/file/DVibpHTm5PNEXwkNeg6DzJ/DD-%2F-Rocketflix-(Copy)>) -->
 
@@ -74,18 +72,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Made with 💙 by [Thiago Lemos](https://www.thiagolemos.tech) 👋
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-react-nlw-esports/README.md at main · thiagolemosdev/react-nlw-esports
